@@ -1,0 +1,4 @@
+[01-May-2022 11:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ruffusec/public_html/industrialneeds.in/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ruffusec/public_html/industrialneeds.in/wp-content/themes/twentytwenty/index.php on line 17

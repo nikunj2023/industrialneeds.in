@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Multi Directory were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://industrialneeds.in
+Data file = /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-content-import-file_2021-12-26__20-21-55.xml
+Widget file = /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-widgets-import-file_2021-12-26__20-21-55.json
+Customizer file = not defined!
+Redux files:
+pointfindertheme_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_0-2021-12-26__20-21-55.json 
+pointfindermail_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_1-2021-12-26__20-21-55.json 
+pfcustomfields_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_2-2021-12-26__20-21-55.json 
+pfsearchfields_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_3-2021-12-26__20-21-55.json 
+pfcustompoints_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_4-2021-12-26__20-21-55.json 
+pfitemreviewsystem_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_5-2021-12-26__20-21-55.json 
+pfadvancedcontrol_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_6-2021-12-26__20-21-55.json 
+pfascontrol_options -> /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-redux-import-file_7-2021-12-26__20-21-55.json 
+
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+An error occurred while reading a file from your server! Tried reading file from path: <br>/home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/demo-widgets-import-file_2021-12-26__20-21-55.json.
+
+---Importing Redux settings---
+Redux settings import for: pointfindertheme_options finished successfully!
+
+---Importing Redux settings---
+Redux settings import for: pointfindermail_options finished successfully!
+
+---Importing Redux settings---
+Redux settings import for: pfcustomfields_options finished successfully!
+
+---Importing Redux settings---
+Redux settings import for: pfsearchfields_options finished successfully!
+
+---Importing Redux settings---
+The Redux option name: pfcustompoints_options, was not found in this WP site, so it was not imported!
+
+---Importing Redux settings---
+Redux settings import for: pfitemreviewsystem_options finished successfully!
+
+---Importing Redux settings---
+The Redux option name: pfadvancedcontrol_options, was not found in this WP site, so it was not imported!
+
+---Importing Redux settings---
+Redux settings import for: pfascontrol_options finished successfully!
+
+---ocdi/after_import---
+Multi Directory Mode After Import Actions

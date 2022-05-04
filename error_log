@@ -1,0 +1,8 @@
+[19-Dec-2021 18:09:34 UTC] WordPress database error Table 'ruffusec_inneeds.in_aioseo_cache' doesn't exist for query DELETE FROM in_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NOT NULL AND expiration <= '2021-12-19 18:09:34' )
+/* 1 = 1 */ made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('aioseo_cache_prune'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\CachePrune->prune, AIOSEO\Plugin\Common\Utils\Database->run
+[26-Dec-2021 20:37:14 UTC] WordPress database error Table 'ruffusec_inneeds.in_aioseo_cache' doesn't exist for query DELETE FROM in_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NOT NULL AND expiration <= '2021-12-26 20:37:14' )
+/* 1 = 1 */ made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('aioseo_cache_prune'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\CachePrune->prune, AIOSEO\Plugin\Common\Utils\Database->run

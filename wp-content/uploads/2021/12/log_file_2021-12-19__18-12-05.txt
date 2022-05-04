@@ -1,0 +1,216 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://industrialneeds.in
+Data file = /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/content-1.xml
+Widget file = /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/widgets-1.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "3640918740_599b359edc_b" (Media)
+[ERROR] Failed to import "3640924252_21e2e7d3ff_b" (Media)
+[ERROR] Failed to import "11534685133_6567e97643_b" (Media)
+[ERROR] Failed to import "11534728553_8d05561c8b_b" (Media)
+[ERROR] Failed to import "13651495615_c661ee1940_b" (Media)
+[ERROR] Failed to import "agent1" (Media)
+[ERROR] Failed to import "LOGO2" (Media)
+[ERROR] Failed to import "LOGO2s" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "433449696_40e7dea719_b" (Media)
+[ERROR] Failed to import "3640110011_d7b3f6d69b_b" (Media)
+[ERROR] Failed to import "3640110857_db80356eba_b" (Media)
+[ERROR] Failed to import "6255720959_e8acaa6d0b_b" (Media)
+[ERROR] Failed to import "5798231337_210393931c_b" (Media)
+[ERROR] Failed to import "" (Media)
+[ERROR] Failed to import "3640108817_94e446a153_b" (Media)
+[ERROR] Failed to import "9383575843_b41ef64cfd_b" (Media)
+[ERROR] Failed to import "9651174835_92da095758_b" (Media)
+[ERROR] Failed to import "5798781580_b49bce3b06_b" (Media)
+[ERROR] Failed to import "3640925472_674a0b747c_b" (Media)
+[ERROR] Failed to import "13651509023_76383875d8_b" (Media)
+[ERROR] Failed to import "9383575843_b41ef64cfd_b" (Media)
+[ERROR] Failed to import "11534572345_2538c3e64e_b" (Media)
+[ERROR] Failed to import "Cyberoamnstant" (Media)
+[ERROR] Failed to import "GlobalValley" (Media)
+[ERROR] Failed to import "GreenmeetingLogoinstant" (Media)
+[ERROR] Failed to import "monkeyrule" (Media)
+[ERROR] Failed to import "solidsociety" (Media)
+[ERROR] Failed to import "square" (Media)
+[ERROR] Failed to import "pw_maze_black" (Media)
+[ERROR] Failed to import "img1" (Media)
+[ERROR] Failed to import "dmapsettings" (Media)
+[ERROR] Failed to import "itemslider" (Media)
+[ERROR] Failed to import "pcform" (Media)
+[ERROR] Failed to import "cmap" (Media)
+[ERROR] Failed to import "use_your_illusion" (Media)
+[ERROR] Failed to import "denim" (Media)
+[ERROR] Failed to import "slide3" (Media)
+[ERROR] Failed to import "slide2" (Media)
+[ERROR] Failed to import "slide1" (Media)
+[ERROR] Failed to import "res1" (Media)
+[ERROR] Failed to import "Multiple Point Admin Panel" (Media)
+[ERROR] Failed to import "pcarousel" (Media)
+[ERROR] Failed to import "feature1" (Media)
+[ERROR] Failed to import "feature2" (Media)
+[ERROR] Failed to import "feature3" (Media)
+[ERROR] Failed to import "cardealermode" (Media)
+[ERROR] Failed to import "directorymode" (Media)
+[ERROR] Failed to import "realestatedemo" (Media)
+[ERROR] Failed to import "bgheadershadow" (Media)
+[ERROR] Failed to import "electronic" (Media)
+[ERROR] Failed to import "motors" (Media)
+[ERROR] Failed to import "realestate" (Media)
+[ERROR] Failed to import "travel" (Media)
+[ERROR] Failed to import "services" (Media)
+[ERROR] Failed to import "jobs" (Media)
+[ERROR] Failed to import "pets" (Media)
+[ERROR] Failed to import "restaurant" (Media)
+[ERROR] Failed to import "1428018148_settings-128" (Media)
+[ERROR] Failed to import "1428017969_banknote-128" (Media)
+[ERROR] Failed to import "slidebg1.jpg" (Media)
+[ERROR] Failed to import "woman.png" (Media)
+[ERROR] Failed to import "graph.png" (Media)
+[ERROR] Failed to import "star.png" (Media)
+[ERROR] Failed to import "darkblurbg.jpg" (Media)
+[ERROR] Failed to import "macbook2.png" (Media)
+[ERROR] Failed to import "imac1.png" (Media)
+[ERROR] Failed to import "lupe_macbook.png" (Media)
+[ERROR] Failed to import "lupe_imac.png" (Media)
+[ERROR] Failed to import "cloud2.png" (Media)
+[ERROR] Failed to import "cloud3.png" (Media)
+[ERROR] Failed to import "cloud1.png" (Media)
+[ERROR] Failed to import "hill3.png" (Media)
+[ERROR] Failed to import "hill4.png" (Media)
+[ERROR] Failed to import "hill2.png" (Media)
+[ERROR] Failed to import "hill1.png" (Media)
+[ERROR] Failed to import "guy1.png" (Media)
+[ERROR] Failed to import "guy2.png" (Media)
+[ERROR] Failed to import "icon_photo.png" (Media)
+[ERROR] Failed to import "tree.png" (Media)
+[ERROR] Failed to import "clock2.png" (Media)
+[ERROR] Failed to import "guy3.png" (Media)
+[ERROR] Failed to import "guy4.png" (Media)
+[ERROR] Failed to import "apple.png" (Media)
+[ERROR] Failed to import "videobg1.jpg" (Media)
+[ERROR] Failed to import "videoshadow.png" (Media)
+[ERROR] Failed to import "izmir-1" (Media)
+[ERROR] Failed to import "agent1" (Media)
+[ERROR] Failed to import "7058942935_d29b5c4778_z" (Media)
+[ERROR] Failed to import "123347917_3e968b4384_z" (Media)
+[ERROR] Failed to import "821161211_46d4439735_z" (Media)
+[ERROR] Failed to import "940693213_5f0a1a85b8_z" (Media)
+[ERROR] Failed to import "2104850919_7a59cf41a9_z" (Media)
+[ERROR] Failed to import "6672148315_df2d723a3a_z" (Media)
+[ERROR] Failed to import "8009892386_a3ebef1cbc_z" (Media)
+[ERROR] Failed to import "8300920648_d4a21bba59_z" (Media)
+[ERROR] Failed to import "9386968830_91cfc48341_z" (Media)
+[ERROR] Failed to import "4297852642_283890d31e_m" (Media)
+[ERROR] Failed to import "Cyberoamnstant" (Media)
+[ERROR] Failed to import "2014-ferrari-458-speciale-photo-537068-s-1280x782" (Media)
+[ERROR] Failed to import "audi-r8" (Media)
+[ERROR] Failed to import "huracan_front_view_ov1" (Media)
+[ERROR] Failed to import "interior" (Media)
+[ERROR] Failed to import "2015-Audi-R8-Coupe-shown-in-Ice-silver-metallic-01" (Media)
+[ERROR] Failed to import "slide1" (Media)
+[ERROR] Failed to import "landing-image" (Media)
+[ERROR] Failed to import "features" (Media)
+[ERROR] Failed to import "4777193198_5880ac679d_z" (Media)
+[ERROR] Failed to import "5918481626_32db2420ff_z" (Media)
+[ERROR] Failed to import "4946640030_29a24e13b7_z" (Media)
+[ERROR] Failed to import "3309961590_f3a2c37d10_z" (Media)
+[ERROR] Failed to import "12890205354_9e2ba442ee_z" (Media)
+[ERROR] Failed to import "14509973978_53bd4d8a4b_z" (Media)
+[ERROR] Failed to import "46486526_1093097687_z" (Media)
+[ERROR] Failed to import "LOGO2s1" (Media)
+[ERROR] Failed to import "LOGO2ss" (Media)
+[ERROR] Failed to import "footer1 copy" (Media)
+[ERROR] Failed to import "mousew" (Media)
+[ERROR] Failed to import "los-angeles-night-view-wallpaper-21253-22159-hd-wallpapers" (Media)
+[ERROR] Failed to import "room-luxury-hotel-hd-quality-269650" (Media)
+
+
+---Importing widgets---
+PF Default Widget Area : 
+
+PointFinder Search - No Title - Widget already exists
+
+PF Author Page Widget : 
+
+PointFinder Search - Search - Widget already exists
+PointFinder List Agents - Agent List - Widget already exists
+PointFinder Twitter Widget - Twitter - Widget already exists
+
+PF Category Sidebar : 
+
+PointFinder Search - No Title - Widget already exists
+PointFinder Featured Items - Featured - Widget already exists
+PointFinder Recent Items - Recently Posted - Widget already exists
+
+PF Search Results Sidebar : 
+
+PointFinder Search - Search - Widget already exists
+
+PF Blog Sidebar : 
+
+Categories - Categories - Widget already exists
+Recent Posts - Recent Posts - Widget already exists
+Recent Comments - Recent Comments - Widget already exists
+PointFinder Twitter Widget - Twitter - Widget already exists
+Tag Cloud - Tag Cloud - Widget already exists
+
+bd52599041deb3456b4c64e5e9c1dd4f : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Shortcodes - Widget already exists
+
+eb3670fcb4965f5007d73f8c63a9f195 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Special Shortcodes - Widget already exists
+
+2a71f3bb7b87b918080d4bb52f71fc41 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Sample Text - Widget already exists
+
+fe40854170224f62cd9431542bbd6c3f : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Featured Items - Featured Items - Widget already exists
+
+621eeb90603ad963bd8c7a7b8876c55c : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Twitter Widget - Latest Tweet - Widget already exists
+
+9dcae1b8d323f04a55fb4e8e7023eabe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Recent Posts - Recent Posts - Widget already exists
+
+field811922713182866600000 : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Search - Search - Widget already exists
+PointFinder Featured Items - Featured - Widget already exists
+PointFinder Twitter Widget - Twitter Widget - Widget already exists
+PointFinder List Agents - Agents - Widget already exists
+
+field397038915194571000000 : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Search - Search - Widget already exists
+PointFinder Featured Items - Featured - Widget already exists
+PointFinder Twitter Widget - Twitter - Widget already exists
+PointFinder Recent Items - Recent Items - Widget already exists
+
+
+
+---ocdi/after_import---
+

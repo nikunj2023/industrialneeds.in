@@ -1,0 +1,246 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ div#pointfinder-category-map {
+    display: block;
+    position: relative!important;    z-index: 2;
+}
+.golden-forms .social-btns a i.pfloginglogo{
+	background: url(../../images/Google__G__Logo.svg)!important;
+	background-image: url(../../images/Google__G__Logo.svg)!important;
+	background-repeat: no-repeat!important;
+    background-size: 21px 21px!important;
+    background-position: 9px 11px!important;
+    border: 1px solid #e2e2e2!important;
+    width: 42px!important;
+    height: 41px!important;
+}
+.golden-forms .social-btns a.gbs{
+	background:#ffffff!important;
+	background-color:#ffffff!important;
+}
+
+.golden-forms .social-btns a.gbs:hover{
+	opacity: 0.8
+}
+.accountremovebutton {
+    margin-top: 15px!important;
+    font-weight: 600;
+    font-size: 11px!important;
+}
+.accountremovebutton:hover {
+    opacity: .7;
+}
+.accountremovebuttonres {
+    margin-top: 20px!important;
+    margin-bottom: -10px!important;
+}
+.accountremovebutton i.fas.fa-times-circle {
+    vertical-align: text-bottom;
+}
+.leaflet-control-locate a span {
+    font-size: 18px!important;
+}
+
+@media screen and (min-width: 1024px){
+    .pfhalfpagemapview .typeahead__result {
+        position: fixed;
+        z-index: 9;
+    }
+    #pfsearch-draggable .we-change-addr-input .typeahead__result {
+        position: fixed;
+        z-index: 9;
+        display: block;
+    }
+}
+#pfsearch-draggable .we-change-addr-input ul.typeahead__list {
+    min-width: 218px;
+}
+#pfsearch-draggable span.typeahead__cancel-button,#pfsearch-draggable span.typeahead__cancel-button2 {
+    font-size: 19px;
+    line-height: 1.6;
+}
+#pfsearch-draggable .we-change-addr-input span.typeahead__cancel-button2 {
+    right: 53px;
+    font-size: 19px;
+    line-height: 1.6;
+    top: 5px;
+}
+
+#pfsearch-draggable .pf-search-locatemebutloading {
+    height: 14px;
+    width: 14px;
+    background-size: 14px 14px!important;
+    top: 13px;
+}
+
+
+#pfsearch-draggable .pfsearch-content .typeahead__list>li {
+    font-size: 13px;
+}
+
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:after, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:before, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:after, 
+#pfsearch-draggable .typeahead__container.we-change-addr-input.loading .typeahead__query:before {
+    right: 52px!important;
+}
+
+#pfsearch-draggable .typeahead__container.we-change-addr-input .typeahead__field input {
+    padding-right: 66px;
+}
+
+#pfsearch-draggable a#pf_search_geolocateme:hover i,
+#pfsearch-draggable span.typeahead__cancel-button:hover,
+#pfsearch-draggable span.typeahead__cancel-button2:hover,
+#pfsearch-draggable a#pf_search_geodistance:hover i,
+.pf-search-locatemebut:hover,
+.pf-gdirections-locatemebut:hover,
+.pointfinder-mini-search a#pf_search_geodistance:hover i{
+    color: #d0021b!important;fill:#d0021b!important;;
+}
+
+
+.pfminigoogleaddon .typeahead__result{
+    position: fixed;
+    z-index: 9;
+}
+.pfminigoogleaddon ul.typeahead__list, .pfminigoogleaddon .typeahead__result{
+    width: inherit;
+}
+.pointfinder-mini-search .slider-wrapper,#pfsearch-draggable .slider-wrapper {
+    width: 98%;
+}
+.leaflet-div-icon{background: transparent!important; border:none!important;}
+#pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+}
+
+.pftransparenthead .leaflet-top.leaflet-left {
+    padding-top: 130px!important;
+}
+.pftransparenthead .leaflet-top.leaflet-right {
+    padding-top: 186px!important;right: 2px;
+}
+#pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+}
+@media (max-width: 1024px){
+    .pftransparenthead .leaflet-top.leaflet-left {
+        padding-top: 40px!important;
+    }
+    .pftransparenthead .leaflet-top.leaflet-right{
+        padding-top: 85px!important;
+        right: 0px;
+    }
+}
+@media (max-width: 768px){
+    .pftransparenthead .leaflet-top.leaflet-right{
+        padding-top: 85px;
+        right: 0px;
+    }
+    .leaflet-control-fullscreen.leaflet-bar.leaflet-control{
+        display:none!important;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+    }
+    .pfnotificationwindow {
+    top: 50px;
+    }
+    .pfnot-err-button {
+    top: 50px;
+    }
+}
+@media (max-width: 568px){
+    #pfdirectorymap .leaflet-top.leaflet-left {
+    padding-top: 40px;
+    }
+    #pfdirectorymap .leaflet-top.leaflet-right {
+    padding-top: 85px;
+    }
+    .pfnotificationwindow {
+    top: 18px;
+    }
+    .pfnot-err-button {
+    top: 18px;
+    }
+    .pf-fullwidth .wpb_column {
+    margin-bottom: 0;
+    }
+
+}
+.pfhalfmappageview .pfsearch-content #pointfinder_radius_search_main{
+    margin-top: 0px;
+}
+.leaflet-left .leaflet-control-zoom.leaflet-bar.leaflet-control:nth-child(2) {
+    display: none;
+}
+.pftopline:hover .pointfindershortcuted,
+.wpf-navwrapper:hover .pointfindershortcuted,
+.pointfinderexfooterclassxgb:hover .pointfindershortcuted,
+.wpf-footer:hover .pointfindershortcuted,
+#pf-topprimary-nav:hover .pointfindershortcuted,
+.pfmobilemenucontainer:hover .pointfindershortcuted,
+#pfpostitemlink:hover .pointfindershortcuted{
+    display:block;
+}
+
+.pointfindershortcuted {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    background: #8c1515;
+    border: 1px solid #ffffff;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 30px;
+    top: 5px;
+    left: 5px;
+    opacity: .5;
+    color:#ffffff!important;
+    cursor: pointer;
+    display:none;
+}
+
+.pointfindershortcuted:hover{
+    opacity: 1;-webkit-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out;
+}
+.pointfinder-edit-pftopline-row.pointfindershortcuted,
+.pointfinder-edit-pnbutton-row.pointfindershortcuted{
+    width: 24px;
+    height: 24px;
+    font-size: 10px;
+    line-height: 21px;
+    top: 5px;
+}
+.pointfinder-edit-footer-row.pointfindershortcuted {
+    left: 20px;
+}
+.pointfinder-edit-myaccount-row.pointfindershortcuted {
+    width: 24px;
+    height: 24px;
+    font-size: 10px!important;
+    line-height: 21px!important;
+    top: 2px;
+    left: -20px;
+}
+.pointfinder-edit-pnbutton-row.pointfindershortcuted {
+    right: 0px;
+    left: auto;
+    top: 5px;
+}
+button.dz-button {
+    background: transparent!important;
+    border: none!important;
+}
+.pfdashboardpagenewedit .select2-container--classic.select2-container--open .select2-dropdown{top:30px!important;}
+.pfdashboardpagenewedit .select2-container--classic .select2-results__group{padding:0!important;}
+.pfdashboardpagenewedit .select2-container--classic .select2-selection--single .select2-selection__clear {
+    font-size: 16px;
+}
+.tns-outer [data-action] {display: none!important;}

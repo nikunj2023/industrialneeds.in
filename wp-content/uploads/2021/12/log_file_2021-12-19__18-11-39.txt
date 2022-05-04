@@ -1,0 +1,95 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://industrialneeds.in
+Data file = not defined!
+Widget file = /home/ruffusec/public_html/industrialneeds.in/wp-content/uploads/2021/12/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+PF Default Widget Area : 
+
+PointFinder Search - No Title - Imported
+
+PF Author Page Widget : 
+
+PointFinder Search - Search - Imported
+PointFinder List Agents - Agent List - Imported
+PointFinder Twitter Widget - Twitter - Imported
+
+PF Category Sidebar : 
+
+PointFinder Search - No Title - Imported
+PointFinder Featured Items - Featured - Imported
+PointFinder Recent Items - Recently Posted - Imported
+
+PF Search Results Sidebar : 
+
+PointFinder Search - Search - Imported
+
+PF Blog Sidebar : 
+
+Categories - Categories - Imported
+Recent Posts - Recent Posts - Imported
+Recent Comments - Recent Comments - Imported
+PointFinder Twitter Widget - Twitter - Imported
+Tag Cloud - Tag Cloud - Imported
+
+bd52599041deb3456b4c64e5e9c1dd4f : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Shortcodes - Imported to Inactive
+
+eb3670fcb4965f5007d73f8c63a9f195 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Special Shortcodes - Imported to Inactive
+
+2a71f3bb7b87b918080d4bb52f71fc41 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Sample Text - Imported to Inactive
+
+fe40854170224f62cd9431542bbd6c3f : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Featured Items - Featured Items - Imported to Inactive
+
+621eeb90603ad963bd8c7a7b8876c55c : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Twitter Widget - Latest Tweet - Imported to Inactive
+
+9dcae1b8d323f04a55fb4e8e7023eabe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Recent Posts - Recent Posts - Imported to Inactive
+
+field811922713182866600000 : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Search - Search - Imported to Inactive
+PointFinder Featured Items - Featured - Imported to Inactive
+PointFinder Twitter Widget - Twitter Widget - Imported to Inactive
+PointFinder List Agents - Agents - Imported to Inactive
+
+field397038915194571000000 : Sidebar does not exist in theme (moving widget to Inactive)
+
+PointFinder Search - Search - Imported to Inactive
+PointFinder Featured Items - Featured - Imported to Inactive
+PointFinder Twitter Widget - Twitter - Imported to Inactive
+PointFinder Recent Items - Recent Items - Imported to Inactive
+
+
+
+---ocdi/after_import---
+
